@@ -1,0 +1,6 @@
+pg/data/**
+ca-trust/**
+!pg/data/.gitkeep
+!ca-trust/.gitkeep
+projects/**
+!projects/.gitkeep
